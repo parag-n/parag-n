@@ -1,2 +1,2 @@
 
-<h1><marquee> Hello, My name is Parag </marquee></h1>
+<h1><marquee> <center>Hello, My name is Parag </center></marquee></h1>
