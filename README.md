@@ -1,6 +1,3 @@
 
-<h1><marquee> <center><p>Hello! My name is Parag Nukalwar</p></center></marquee></h1>
-<img src="grid-snake.svg">
-<img src="https://github-readme-stats.vercel.app/api?username=parag-n&theme=highcontrast">
-<img src="dino.gif">
-
+<center><h1><p>Hello! My name is Parag Nukalwar</p></h1></center>
+<span><div><img src="https://github-readme-stats.vercel.app/api?username=parag-n&theme=highcontrast"></div><div><img src="https://github-readme-stats.vercel.app/api?username=parag-n&theme=highcontrast"></div><span>
